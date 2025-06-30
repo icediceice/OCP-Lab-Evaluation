@@ -1,7 +1,7 @@
 # OpenShift Virtualization Test - Web Console Edition
 
 **Course:** OpenShift Container Platform - Virtualization  
-**Duration:** 90 minutes  
+**Duration:** 90 minutes (Can be longer)
 **Total Points:** 100 points  
 **Instructions:** Complete all tasks using the OpenShift Web Console UI. Take screenshots of key steps and provide explanations where requested.
 
