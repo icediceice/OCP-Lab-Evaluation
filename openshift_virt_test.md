@@ -17,7 +17,7 @@ You need to create a Virtual Machine using the OpenShift Web Console.
 - Operating System: CentOS 9 Stream
 - CPU: 2 cores
 - Memory: 4 GiB
-- Storage: 20 GiB
+- Storage: 30 GiB
 - Boot source: Container disk from Red Hat registry
 
 **Tasks:**
