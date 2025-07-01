@@ -13,7 +13,7 @@ You need to create a Virtual Machine using the OpenShift Web Console.
 
 **Requirements:**
 - VM name: `centos-vm-01`
-- Namespace: `student-vms`
+- Namespace: `student-vms-userx`
 - Operating System: CentOS 9 Stream
 - CPU: 2 cores
 - Memory: 4 GiB
