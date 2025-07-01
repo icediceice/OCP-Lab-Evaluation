@@ -23,7 +23,7 @@ You need to create a Virtual Machine using the OpenShift Web Console.
 **Tasks:**
 1. Navigate to the correct section in the OpenShift Web Console to create VMs
 2. Describe the step-by-step process to create this VM using the web interface
-3. What options are available for boot sources in the UI? List at least 4 different types
+3. What options are available for boot sources in the UI? screenshot the list.
 4. After creating the VM, how do you start it using the web console?
 5. Take a screenshot of the VM overview page once it's running
 
