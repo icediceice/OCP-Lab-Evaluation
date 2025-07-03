@@ -20,6 +20,7 @@ You need to create a Virtual Machine using the OpenShift Web Console.
 - Storage: 30 GiB
 - Boot source: Container disk from Red Hat registry
 
+
 **Tasks:**
 1. Navigate to the correct section in the OpenShift Web Console to create VMs
 2. Describe the step-by-step process to create this VM using the web interface
